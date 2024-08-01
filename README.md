@@ -10,3 +10,9 @@ This repository is built step by step in the tutorial.
 MonstaX
 
 Hello
+
+what are you doing?
+
+i can do this
+
+hi
